@@ -552,4 +552,4 @@ begin
         end if;
     end process;
     
-end architecture;
+end architecture DESCRIPTION;
